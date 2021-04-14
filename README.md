@@ -34,15 +34,15 @@
 <h3 align="left">Tools:</h3>
 <p align="left"> 
 <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python(514x512)-5.12(100.38x100).png" width="50" height="50"></a>
-  <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/Tensorflow.png" width="40" height="40"/></a>
- <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/django.jpg" width="40" height="40"/></a>
- <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/flask.png" width="40" height="40"/></a>
- <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/keras.png" width="40" height="40"/></a>
- <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/opencv.png" width="40" height="40"/></a>
- <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/python.png" width="40" height="40"/></a>
- <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/selenium.png" width="40" height="40"/></a>
- <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/spyder.png" width="40" height="40"/></a>
- <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/wolfram-alpha.webp" width="40" height="40"/></a>
+  <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/Tensorflow.png" width="40" height="40"/></a>
+ <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/django.jpg" width="40" height="40"/></a>
+ <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/flask.png" width="40" height="40"/></a>
+ <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/keras.png" width="40" height="40"/></a>
+ <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/opencv.png" width="40" height="40"/></a>
+ <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/python.png" width="40" height="40"/></a>
+ <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/selenium.png" width="40" height="40"/></a>
+ <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/spyder.png" width="40" height="40"/></a>
+ <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/wolfram-alpha.webp" width="40" height="40"/></a>
 
  
 </p>
