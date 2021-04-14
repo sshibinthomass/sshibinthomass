@@ -30,11 +30,26 @@
 <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/android(500x500).png" width="40" height="40"></a>
 <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/ios(480x480).png" width="40" height="40"></a>
 <br>
-***
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python(514x512)-5.12(100.38x100).png" width="100.35" height="100"></a>
 </p>
 <h3 align="left">Tools:</h3>
 <p align="left"> 
+<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python(514x512)-5.12(100.38x100).png" width="50" height="50"></a>
+  <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/Tensorflow.png" width="40" height="40"/></a>
+ <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/django.jpg" width="40" height="40"/></a>
+ <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/flask.png" width="40" height="40"/></a>
+ <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/keras.png" width="40" height="40"/></a>
+ <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/opencv.png" width="40" height="40"/></a>
+ <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/python.png" width="40" height="40"/></a>
+ <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/selenium.png" width="40" height="40"/></a>
+ <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/spyder.png" width="40" height="40"/></a>
+ <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/wolfram-alpha.webp" width="40" height="40"/></a>
+
+ 
+</p>
+<h3 align="left">Tools:</h3>
+<p align="left"> 
+ <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/github.webp" width="40" height="40"/></a>
+ <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/jupyter.png" width="40" height="40"/></a>
  <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/anaconda.png" width="40" height="40"/></a>
  <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/atom.png" width="40" height="40"/></a>
  <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/colab.png" width="40" height="40"/></a>
@@ -43,7 +58,6 @@
  <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/vscode.png" width="40" height="40"/></a>
  <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/Appian.png" width="40" height="40"/></a>
  <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/eclipse.png" width="40" height="40"/></a>
-
  </p>
 
 
