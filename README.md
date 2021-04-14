@@ -18,8 +18,6 @@
 <a href="www.linkedin.com/in/sshibinthomass" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/sshibinthomass" height="30" width="40" /></a>
 
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="#"><img src="https://img.icons8.com/ios-filled/100/000000/unity.png" width="50" height="50"/></a>
 <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Arrow.png" width="40" height="40"/></a>
