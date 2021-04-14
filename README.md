@@ -23,12 +23,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="#"><img src="https://img.icons8.com/ios-filled/100/000000/unity.png" width="60" height="60"/></a>
+<a href="#"><img src="https://img.icons8.com/ios-filled/100/000000/unity.png" width="50" height="50"/></a>
 <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/google-arcore.svg" width="40" height="40"/></a>
 <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Google VR-icon.png" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/azure-name.png" width="89" height="50.9"></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/vuforia-name(3848x1032)-20.64(186.43x50).png" width="186.43" height="50"></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/chrome(240x240).png" width="40" height="40"></a>
+<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/azure.png" width="40" height="40"></a>
+<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/vuforia.png" width="40" height="40"></a>
+<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/web.png" width="40" height="40"></a>
 <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/android(500x500).png" width="40" height="40"></a>
 <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/ios(480x480).png" width="40" height="40"></a>
 <br>
