@@ -46,7 +46,7 @@
 <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/wolfram-alpha.webp" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Tools and IDEs:</h3>
 <p align="left"> 
 <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/github.webp" width="40" height="40"/></a>
 <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/jupyter.png" width="40" height="40"/></a>
