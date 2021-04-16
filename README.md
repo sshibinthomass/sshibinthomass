@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **sshibinthomass@gmail.com**
 
-[Contact Us](mailto:sshibinthomass@gmail.com)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://www.linkedin.com/in/sshibinthomass/">
