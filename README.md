@@ -11,9 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://www.linkedin.com/in/sshibinthomass/">
-  <img align="left" alt="Shibin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>  
 <a href="www.linkedin.com/in/sshibinthomass" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/sshibinthomass" height="30" width="40" /></a>
 </p>
 
