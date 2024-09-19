@@ -16,6 +16,7 @@
 <a href="https://sshibinthomass.github.io/myportfolio/" target="_blank"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/web.png" width="40" height="40"></a>
 </p>
 
+<a href="https://sshibinthomass.github.io/myportfolio/"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/web.png" alt="Alt text" width="40"/></a>
 [![Alt text](https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/web.png)](https://sshibinthomass.github.io/myportfolio/)
 
 
