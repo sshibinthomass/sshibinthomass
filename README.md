@@ -6,7 +6,7 @@
 
 - 🌱 Forever Learner currently learning **Robotics, Deep Learning and Python**
 
-- 💬 Ask me about **Ask my about Deep Learning, Robotics, Augmented Reality and Virtual Reality,**
+- 💬 Ask me about **Deep Learning, Robotics, Augmented Reality, and Virtual Reality,**
 
 - 📫 How to reach me **sshibinthomass@gmail.com**
 
