@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Shibin 👋 I'm a 🚀 Python developer 🚀 I ❤️ AI and Robotics">
-</p>
+![Logo](https://raw.githubusercontent.com/sshibinthomass/sshibinthomass/main/myself.jpg)
+
 <h3 align="center">Im Young Budding Energetic Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshibinthomass&label=Profile%20views&color=0e75b6&style=flat" alt="sshibinthomass" /> </p>
