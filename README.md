@@ -18,35 +18,24 @@
 
 </p>
 
-<h3 align="left">Languages:</h3>
 <p align="left"> 
-<a href="#"><img src="https://img.icons8.com/ios-filled/100/000000/unity.png" width="50" height="50"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Arrow.png" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/google-arcore.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Google VR-icon.png" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/azure.png" width="40" height="40"></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/vuforia.png" width="40" height="40"></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/web.png" width="40" height="40"></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/android(500x500).png" width="40" height="40"></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/ios(480x480).png" width="40" height="40"></a>
-</p>
 
-<p align="left"> 
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python(514x512)-5.12(100.38x100).png" width="50" height="50"></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Arrow.png" width="40" height="40"/></a>
 <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/Tensorflow.png" width="40" height="40"/></a>
 <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/django.jpg" width="40" height="40"/></a>
 <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/flask.png" width="40" height="40"/></a>
 <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/keras.png" width="40" height="40"/></a>
 <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/opencv.png" width="40" height="40"/></a>
 <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/python.png" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/selenium.png" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/spyder.png" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/wolfram-alpha.webp" width="40" height="40"/></a>
+<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/google-arcore.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Google VR-icon.png" width="40" height="40"/></a>
+<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/web.png" width="40" height="40"></a>
+<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/android(500x500).png" width="40" height="40"></a>
+<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/ios(480x480).png" width="40" height="40"></a>
 </p>
 
 <h3 align="left">Tools and IDEs:</h3>
 <p align="left"> 
+<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/spyder.png" width="40" height="40"/></a>
 <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/github.webp" width="40" height="40"/></a>
 <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/jupyter.png" width="40" height="40"/></a>
 <a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/anaconda.png" width="40" height="40"/></a>
