@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Shibin 👋 I'm a 🚀 Python developer 🚀 I ❤️ AI and Robotics">
 </p>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Shibin Thomas.S</h1>
 <h3 align="center">Im Young Budding Energetic Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshibinthomass&label=Profile%20views&color=0e75b6&style=flat" alt="sshibinthomass" /> </p>
