@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshibinthomass&label=Profile%20views&color=0e75b6&style=flat" alt="sshibinthomass" /> </p>
 
-- 🌱 I’m currently learning **Python Development and Appian**
+- 🌱 Forever Learner currently learning **Robotics, Deep Learning and Python**
 
-- 💬 Ask me about **Augmented Reality, Virtual Reality, Deep Learning and Computer Vision**
+- 💬 Ask me about **Ask my about Deep Learning, Robotics, Augmented Reality and Virtual Reality,**
 
 - 📫 How to reach me **sshibinthomass@gmail.com**
 
@@ -15,6 +15,9 @@
 <a href="www.linkedin.com/in/sshibinthomass" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="40" height="40"></a>
 <a href="https://sshibinthomass.github.io/myportfolio/" target="_blank"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/web.png" width="40" height="40"></a>
 </p>
+
+[![Alt text](https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/web.png)](https://sshibinthomass.github.io/myportfolio/)
+
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
