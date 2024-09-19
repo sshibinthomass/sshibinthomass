@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/sshibinthomass/sshibinthomass/main/myself.jpg)
+![Logo](https://raw.githubusercontent.com/sshibinthomass/sshibinthomass/main/Shibin.png)
 
 <h3 align="center">Im Young Budding Energetic Engineer</h3>
 
