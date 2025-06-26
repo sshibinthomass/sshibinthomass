@@ -4,9 +4,34 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshibinthomass&label=Profile%20views&color=0e75b6&style=flat" alt="sshibinthomass" /> </p>
 
-- 🌱 Forever Learner currently learning **Robotics, Deep Learning and Python**
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-- 💬 Ask me about **Deep Learning, Robotics, Augmented Reality, and Virtual Reality,**
+
+class LlmEngineer:
+
+    def __init__(self):
+        self.name = "Shibin Thomas"
+        self.role = "LLM Engineer"
+        self.language_spoken = ["en_US", "de_DE"]
+        self.learning = ["LLM and AI Agents"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+    def current_learning(self):
+        print(f"Currently learning: {', '.join(self.learning)}")
+
+
+me = LlmEngineer()
+me.say_hi()
+me.current_learning()
+```
+
+- 🌱 Forever Learner currently learning **LLM and AI Agents**
+
+- 💬 Ask me about **LLMs, RAG, MCP, AI Agents, Deep Learning, NLP, Augmented Reality, and Virtual Reality,**
 
 - 📫 How to reach me **sshibinthomass@gmail.com**
 
@@ -20,38 +45,76 @@
 </p>
 
 ---
-<h3 align="left">Working On:</h3>
 
-<p align="left"> 
+<h3 align="left">🧠 Programming & Orchestration</h3>
 
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/Tensorflow.png" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/django.jpg" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/flask.png" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/keras.png" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/opencv.png" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/python.png" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/google-arcore.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Google VR-icon.png" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/web.png" width="40" height="40"></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/android(500x500).png" width="40" height="40"></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/ios(480x480).png" width="40" height="40"></a>
-</p>
+![Python](https://img.shields.io/badge/Python-Code-blue)
+![LangGraph](https://img.shields.io/badge/LangGraph-Orchestration-blue)
+![LangChain](https://img.shields.io/badge/LangChain-Orchestration-blue)
 
----
-<h3 align="left">Tools and IDEs:</h3>
-<p align="left"> 
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/python/spyder.png" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/github.webp" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/jupyter.png" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/anaconda.png" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/atom.png" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/colab.png" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/pycharm.png" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/unity.webp" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/vscode.png" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/Appian.png" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/sshibinthomass/sshibinthomass/blob/main/Icons/Tools/eclipse.png" width="40" height="40"/></a>
-</p>
+
+<h3 align="left">🕸️ Frameworks & Appification</h3>
+
+![Flask](https://img.shields.io/badge/Flask-Framework-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-Appification-green)
+
+
+
+<h3 align="left">📊 Data Analysis & Visualization</h3>
+
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-orange)
+![NumPy](https://img.shields.io/badge/NumPy-Data_Analysis-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-orange)
+
+
+
+<h3 align="left">🧠 ML & DL Libraries</h3>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep_Learning-red)
+![Torch](https://img.shields.io/badge/Torch-Deep_Learning-red)
+![Scikit_learn](https://img.shields.io/badge/Scikit_learn-ML_Algorithms-red)
+
+
+
+<h3 align="left">📚 NLP & Language Models</h3>
+
+![NLP](https://img.shields.io/badge/NLP-Text_Processing-purple)
+![NLTK](https://img.shields.io/badge/NLTK-Text_Preprocessing-purple)
+![Transformers](https://img.shields.io/badge/Transformers-LLM_Library-purple)
+
+
+
+<h3 align="left">🤖 LLM Inference APIs</h3>
+
+![Anthropic](https://img.shields.io/badge/Anthropic-LLM_Inference-yellow)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-LLM_Inference-yellow)
+![Groq](https://img.shields.io/badge/Groq-LLM_Inference-yellow)
+![Gemini](https://img.shields.io/badge/Gemini-LLM_Inference-yellow)
+![OpenAI](https://img.shields.io/badge/OpenAI-LLM_Inference-yellow)
+![Ollama](https://img.shields.io/badge/Ollama-LLM_InferenceAPI-yellow)
+
+
+
+<h3 align="left">🧩 Utilities & Integration</h3>
+
+![MCP](https://img.shields.io/badge/MCP-Tool_Calling_Protocol-pink)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Model_Hub-pink)
+![Pydantic](https://img.shields.io/badge/Pydantic-Data_Validation-pink)
+
+
+
+<h3 align="left">🎥 Vision</h3>
+
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-teal)
+
+
+
+<h3 align="left">🖥️ IDEs</h3>
+
+![Cursor](https://img.shields.io/badge/Cursor-IDE-gray)
+![VSCode](https://img.shields.io/badge/VSCode-IDE-gray)
+![Jupyter](https://img.shields.io/badge/Jupyter-IDE-gray)
 
 ---
 
