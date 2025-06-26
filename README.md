@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/sshibinthomass/sshibinthomass/main/Shibin1.png)
+![Logo](https://raw.githubusercontent.com/sshibinthomass/sshibinthomass/main/Shibin.png)
  
 <h3 align="center">Im Young Budding Energetic Engineer</h3>
 
@@ -60,3 +60,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sshibinthomass&show_icons=true&theme=tokyonight&locale=en" alt="sshibinthomass" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sshibinthomass&theme=dark" alt="sshibinthomass" /></p>
+
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/sshibinthomass/Langgraph-Core">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sshibinthomass&repo=Langgraph-Core&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Langgraph-Core" />
+</a>
+
+<a href="https://github.com/sshibinthomass/Munich-sushi-Chatbot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sshibinthomass&repo=Munich-sushi-Chatbot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="sushi-Chatbot" />
+</a>
