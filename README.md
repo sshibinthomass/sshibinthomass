@@ -15,7 +15,7 @@ class LlmEngineer:
         self.name = "Shibin Thomas"
         self.role = "LLM Engineer"
         self.language_spoken = ["en_US", "de_DE"]
-        self.learning = ["LLM and AI Agents"]
+        self.learning = ["LLM, AI Agents"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
