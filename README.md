@@ -8,25 +8,29 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+from dataclasses import dataclass, field
+from typing import List
 
+
+@dataclass
 class LlmEngineer:
+    name: str = "Shibin Thomas"
+    role: str = "LLM Engineer"
+    languages_spoken: List[str] = field(default_factory=lambda: ["en_US", "de_DE"])
+    learning: List[str] = field(default_factory=lambda: ["LLM and AI Agents"])
 
-    def __init__(self):
-        self.name = "Shibin Thomas"
-        self.role = "LLM Engineer"
-        self.language_spoken = ["en_US", "de_DE"]
-        self.learning = ["LLM and AI Agents"]
+    def say_hi(self) -> str:
+        return "Thanks for dropping by, hope you find some of my work interesting."
 
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-    def current_learning(self):
-        print(f"Currently learning: {', '.join(self.learning)}")
+    def current_learning(self) -> str:
+        return f"Currently learning: {', '.join(self.learning)}"
 
 
-me = LlmEngineer()
-me.say_hi()
-me.current_learning()
+if __name__ == "__main__":
+    me = LlmEngineer()
+    print(me.say_hi())
+    print(me.current_learning())
+
 ```
 
 - 🌱 Forever Learner currently learning **LLM and AI Agents**
