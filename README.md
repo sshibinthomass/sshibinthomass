@@ -108,12 +108,16 @@ me.current_focus()
 
 ## 🏆 Awards & Hackathons
 
-- 🥇 **1st Place** | [BMW AI Hackathon](https://shibinthomas.com/bmwhack) — BMW Group & TUM.ai (2025)
-- 🥈 **2nd Place** | [BKW Hackathon](https://shibinthomas.com/bkwhack) — BKW & TUM.ai (2025)
-- 🏆 **Winner** | [AEC/O Hackathon](https://shibinthomas.com/aechack) — TUM Venture Labs (2025)
-- 🎖️ **Best Project Award** | [Tamil Nadu Council for Science and Technology](https://shibinthomas.com/tnscst) (2022)
-- 🥇 **1st Place** | [Smart India Hackathon](https://shibinthomas.com/sihhack) — Government of India (2021)
-- 🥉 **3rd Place** | [TCS XR Pro Hackathon](https://shibinthomas.com/tcsxrhack) — CII Connect & TCS (2019)
+- 🏆 **Winner** | [TUM Venture / AEC/O Hackathon](https://shibinthomas.com/en/achievements/0) — TUM Venture Labs (2025)
+- 🥇 **1st Place** | [BMW AI Hackathon](https://shibinthomas.com/en/achievements/1) — BMW Group & TUM.ai (2025)
+- 🥈 **2nd Place** | [BKW Hackathon](https://shibinthomas.com/en/achievements/2) — BKW & TUM.ai (2025)
+- 🎖️ **Best Project Award** | [Tamil Nadu Council for Science and Technology](https://shibinthomas.com/en/achievements/3) — Government of Tamil Nadu (2022)
+- 🥇 **1st Place** | [Project expo’19 & 22](https://shibinthomas.com/en/achievements/8) — SKCET (2019 & 2022)
+- 🥇 **1st Place** | [Smart India Hackathon](https://shibinthomas.com/en/achievements/4) — Government of India (2020)
+- 🥇 **1st Place** | [SAR Tier 2](https://shibinthomas.com/en/achievements/5) — SAE (Society of Automotive Engineers) (2020)
+- 🥉 **3rd Place** | [IFA Hackathon (IOT for All)](https://shibinthomas.com/en/achievements/6) — MakersTribe (2019)
+- 🥉 **3rd Place** | [TCS XR Pro Hackathon](https://shibinthomas.com/en/achievements/7) — CII Connect & TCS (2019)
+- 🎓 **1st & 2nd Rank** | [Star Performance & Academic Excellence](https://shibinthomas.com/en/achievements/9) — Department of Mechatronics, SKCET (2019)
 
 ---
 
