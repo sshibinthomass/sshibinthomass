@@ -50,6 +50,8 @@ me.current_focus()
 ![TypeScript](https://img.shields.io/badge/TypeScript-Code-blue)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Orchestration-blue)
 ![LangChain](https://img.shields.io/badge/LangChain-Orchestration-blue)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-Inference_Layer-blue)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blue)
 
 <h3 align="left">🕸️ Frameworks & Appification</h3>
 
@@ -71,17 +73,6 @@ me.current_focus()
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep_Learning-red)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-red)
 ![Scikit_learn](https://img.shields.io/badge/Scikit_learn-ML_Algorithms-red)
-
-<h3 align="left">🤖 LLMs, VLMs & Agentic AI</h3>
-
-![Anthropic](https://img.shields.io/badge/Anthropic-LLM_Inference-yellow)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-LLM_Inference-yellow)
-![Groq](https://img.shields.io/badge/Groq-LLM_Inference-yellow)
-![Gemini](https://img.shields.io/badge/Gemini-LLM_Inference-yellow)
-![OpenAI](https://img.shields.io/badge/OpenAI-LLM_Inference-yellow)
-![Ollama](https://img.shields.io/badge/Ollama-LLM_InferenceAPI-yellow)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-Inference_Layer-yellow)
-![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-yellow)
 
 <h3 align="left">🧩 Tools, DevOps & Evaluation</h3>
 
@@ -108,7 +99,7 @@ me.current_focus()
 
 📈 **Account Status**
 
-<p><img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=sshibinthomass&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sshibinthomass" /></p>
+<p><img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=sshibinthomass&show_icons=true&theme=dracula&locale=en&layout=compact&hide=jupyter%20notebook" alt="sshibinthomass" /></p>
 <p> <img align="center" src="https://github-stats-extended.vercel.app/api?username=sshibinthomass&show_icons=true&theme=tokyonight&locale=en" alt="sshibinthomass" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sshibinthomass&theme=dark" alt="sshibinthomass" /></p>
@@ -128,6 +119,47 @@ me.current_focus()
 
 ## 🗂️ Github Pins
 
-<a href="https://github.com/sshibinthomass/Munich-sushi-Chatbot">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=sshibinthomass&repo=Munich-sushi-Chatbot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="sushi-Chatbot" />
-</a>
+<table border="0">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/sshibinthomass/Munich-sushi-Chatbot">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=sshibinthomass&repo=Munich-sushi-Chatbot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="sushi-Chatbot" />
+      </a>
+      <p align="center"><em>Interactive sushi restaurant chatbot and menu helper.</em></p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/sshibinthomass/BKW-Design-Agent">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=sshibinthomass&repo=BKW-Design-Agent&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="BKW-Design-Agent" />
+      </a>
+      <p align="center"><em>Generative AI Agent for structural optimization, built for the BKW & TUM.ai Hackathon (2025).</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/sshibinthomass/Mark-AR">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=sshibinthomass&repo=Mark-AR&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Mark-AR" />
+      </a>
+      <p align="center"><em>Marker-based Augmented Reality application.</em></p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/sshibinthomass/Web-AR">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=sshibinthomass&repo=Web-AR&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Web-AR" />
+      </a>
+      <p align="center"><em>Web-based Augmented Reality pipeline and viewer.</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/sshibinthomass/rosary-site-react">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=sshibinthomass&repo=rosary-site-react&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="rosary-site-react" />
+      </a>
+      <p align="center"><em>React-based frontend application for Rosary plant house.</em></p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/sshibinthomass/nucleate-hack-medi-minds">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=sshibinthomass&repo=nucleate-hack-medi-minds&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="nucleate-hack-medi-minds" />
+      </a>
+      <p align="center"><em>AI health and medical solution developed during the Nucleate Hackathon.</em></p>
+    </td>
+  </tr>
+</table>
